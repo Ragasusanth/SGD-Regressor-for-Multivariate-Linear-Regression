@@ -174,9 +174,9 @@ print("\nDeveloped by: RAGA SUSANTH")
 ```
 
 ## Output:
-<img width="747" height="411" alt="Screenshot 2026-10-29 144125" src="https://github.com/user-attachments/assets/ee9baff6-d7f1-4345-94a3-f2d3ab685526" />
-<img width="728" height="687" alt="Screenshot 2026-10-29 144132" src="https://github.com/user-attachments/assets/0b25edf1-4ad9-4a94-a20a-583ef99a4558" />
-<img width="456" height="86" alt="Screenshot 2026-10-29 144140" src="https://github.com/user-attachments/assets/0b7a39b2-3fe2-4e4e-841d-122cecea873a" />
+<img width="562" height="672" alt="image" src="https://github.com/user-attachments/assets/ca39d844-ec9f-4d2b-bb40-5cb77d4171c9" />
+<img width="555" height="241" alt="image" src="https://github.com/user-attachments/assets/658440cc-3d58-431c-80d9-38a0249b72eb" />
+<img width="685" height="198" alt="image" src="https://github.com/user-attachments/assets/c26af8cf-a39b-473d-b074-ca8ad16478f8" />
 
 
 ## Result:
